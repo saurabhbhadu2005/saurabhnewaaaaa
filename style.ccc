@@ -1,0 +1,14 @@
+.navbar{
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.navbar a {
+    color:rgb(61,95,0);
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 2%;
+  
+}
